@@ -357,7 +357,7 @@
 
     .div2 {
         top: 0;
-        right: -230px;
+        right: -250px;
         z-index: 2;
         position: absolute;
         display: flex;
@@ -373,7 +373,7 @@
 
     .div3 {
         height: 85%;
-        width: 65%;
+        width: 60%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -382,9 +382,9 @@
         background-position: center;
         background-position-y: -250px;
         background-size: cover;
-        box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.7);
+        box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.6);
         background-repeat: no-repeat;
-        border-bottom: 5px dotted #c685e4;
+        border-bottom: 2px dotted #c685e4;
         border-left: 6px dotted #694f75;
         border-top: 5px dotted #694f75;
         /* filter: grayscale(70%) sepia(30%); */
