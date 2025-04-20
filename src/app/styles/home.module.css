@@ -317,7 +317,7 @@
         position: relative;
         display: flex;
         height: calc(100vh - 40px);
-        margin-top: 50px;
+        margin-top: 30px;
     }
 
     .div1 {
@@ -349,7 +349,7 @@
 
     .txt {
         padding-top: 40px;
-        font-size: 22px;
+        font-size: 20px;
         /* font-weight: 400; */
         width: 95vw;
         color: #d0bdda;
@@ -373,7 +373,7 @@
 
     .div3 {
         height: 90%;
-        width: 65%;
+        width: 60%;
         display: flex;
         align-items: center;
         justify-content: center;
