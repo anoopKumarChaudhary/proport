@@ -22,7 +22,7 @@ const images = [
   "ii10.jpeg",
 ];
 
-const Hackathons = React.memo(() => {
+const Hackathons = () => {
   return (
     <div className={styles.main}>
       <div className={styles.title}>
@@ -46,6 +46,6 @@ const Hackathons = React.memo(() => {
       </div>
     </div>
   );
-});
+};
 
 export default Hackathons;
