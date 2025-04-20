@@ -1,10 +1,10 @@
 "use client";
+// eslint-disable-next-line react/display-name
 import React from "react";
 import styles from "../styles/home.module.css";
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
-import { FaCircle, FaCircleNotch, FaDotCircle, FaStar } from "react-icons/fa";
-import HeroSection from "./anim";
+import { FaStar } from "react-icons/fa";
 
 const titles = ["Coder", "Developer", "Engineer", "Freelancer"];
 
