@@ -357,7 +357,7 @@
 
     .div2 {
         top: 0;
-        right: -250px;
+        right: -230px;
         z-index: 2;
         position: absolute;
         display: flex;
@@ -372,8 +372,8 @@
     }
 
     .div3 {
-        height: 100%;
-        width: 70%;
+        height: 90%;
+        width: 65%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -384,8 +384,9 @@
         background-size: cover;
         box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.6);
         background-repeat: no-repeat;
-        border-bottom: 2px dotted #c685e4;
+        border-bottom: 7px dotted #c685e4;
         border-left: 6px dotted #c685e4;
+        border-top: 6px dotted #c685e4;
         /* filter: grayscale(70%) sepia(30%); */
     }
 
