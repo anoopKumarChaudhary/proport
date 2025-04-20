@@ -151,7 +151,7 @@
     .masonryItem {
         width: 100%;
         height: 100%;
-        border-radius: 8px;
+        border-radius: 4px;
         object-fit: cover;
         transition: transform 0.3s ease-in-out;
         filter: contrast(1.4) grayscale(0.45);
