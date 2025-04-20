@@ -387,7 +387,7 @@
         background-repeat: no-repeat;
         border-bottom: 2px dotted #5a4464;
         border-left: 6px dotted #694f75;
-        border-top: 4px dotted #5a4464;
+        /* border-top: 4px dotted #5a4464; */
         /* filter: grayscale(70%) sepia(30%); */
     }
 
