@@ -100,10 +100,13 @@
 
 @media screen and (max-width: 520px) {
     .main {
+        width: 100vw;
         display: flex;
         flex-direction: column;
         color: #c685e4;
         padding-top: 50px;
+
+
     }
 
     .title {
@@ -138,7 +141,7 @@
     .skills {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        padding: 50px 0vw;
+        padding: 50px 3vw;
         justify-items: center;
         align-items: center;
         justify-self: center;
