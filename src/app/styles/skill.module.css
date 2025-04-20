@@ -126,13 +126,13 @@
     }
 
     .head {
-        font-size: 65px;
+        font-size: 40px;
         font-weight: bold;
 
     }
 
     .line {
-        width: 70%;
+        width: 50%;
         background-color: #c685e4;
         height: 6px;
         border-radius: 10px;

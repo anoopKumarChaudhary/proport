@@ -144,31 +144,31 @@
     }
 
     .head {
-        font-size: 65px;
+        font-size: 40px;
         font-weight: bold;
-
+        display: inline-block;
     }
 
     .line {
-        width: 70%;
+        width: 30%;
         background-color: #c685e4;
         height: 6px;
         border-radius: 10px;
     }
 
     .p1 {
-        padding: 40px 3vw 0 3vw;
+        padding: 40px 0 0 3vw;
         color: #d0bdda;
         font-weight: 400;
         text-align: left;
-        font-size: 20px;
+        font-size: 17px;
         line-height: 27px;
         font-family: 'latto', sans-serif;
         font-weight: 500;
     }
 
     .p2 {
-        padding: 40px 3vw 0 3vw;
+        padding: 40px 3vw 0 0vw;
         color: #d0bdda;
         text-align: right;
         font-weight: 400;
@@ -177,6 +177,7 @@
         font-family: 'latto', sans-serif;
         font-weight: 500;
     }
+
 
     @media (prefers-color-scheme: dark) {}
 }
