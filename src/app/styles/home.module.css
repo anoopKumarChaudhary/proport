@@ -372,7 +372,7 @@
     }
 
     .div3 {
-        height: 90%;
+        height: 85%;
         width: 65%;
         display: flex;
         align-items: center;
@@ -382,11 +382,11 @@
         background-position: center;
         background-position-y: -250px;
         background-size: cover;
-        box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.6);
+        box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.7);
         background-repeat: no-repeat;
-        border-bottom: 7px dotted #c685e4;
-        border-left: 6px dotted #c685e4;
-        border-top: 6px dotted #c685e4;
+        border-bottom: 5px dotted #c685e4;
+        border-left: 6px dotted #694f75;
+        border-top: 5px dotted #694f75;
         /* filter: grayscale(70%) sepia(30%); */
     }
 

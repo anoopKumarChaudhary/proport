@@ -138,7 +138,7 @@
     .skills {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        padding: 50px 3vw;
+        padding: 50px 0vw;
         justify-items: center;
         align-items: center;
         justify-self: center;
