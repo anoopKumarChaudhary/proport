@@ -385,7 +385,7 @@
         background-size: cover;
         box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.6);
         background-repeat: no-repeat;
-        border-bottom: 4px dotted #5a4464;
+        border-bottom: 4px solid #5a4464;
         border-left: 6px dotted #694f75;
         /* border-top: 4px dotted #5a4464; */
         /* filter: grayscale(70%) sepia(30%); */
@@ -429,13 +429,13 @@
 
     .btn {
         margin-top: 40px;
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 800;
         padding: 8px 30px;
         outline: none;
         color: #c685e4;
         background-color: transparent;
-        border-radius: 30px;
+        border-radius: 3px;
         border: 2px solid #c685e4;
         cursor: pointer;
         transition: 300ms ease-in-out;
