@@ -15,10 +15,7 @@ const Service = () => {
         <p className={styles.head3}>SERVICE</p>
         <div className={styles.line3}></div>
       </div>
-      <p className={styles.headline}>
-        Transforming Ideas into Reality with Expert Software Development
-        Services
-      </p>
+
       {/* <p className={styles.headline2}>
         Offer a wide range of software development and design services to meet
         all your digital needs. Our expert team is dedicated to delivering
@@ -116,6 +113,10 @@ const Service = () => {
             impression.
           </motion.p>
         </ul>
+        <p className={styles.headline}>
+          Transforming Ideas into Reality with Expert Software Development
+          Services
+        </p>
       </div>
     </div>
   );
