@@ -352,7 +352,7 @@
         font-size: 17px;
         /* font-weight: 400; */
         width: 95vw;
-        color: #2f2831;
+        color: #29202c;
 
     }
 
@@ -385,9 +385,9 @@
         background-size: cover;
         box-shadow: inset 0 1000px 0 0 rgb(30, 30, 32, 0.6);
         background-repeat: no-repeat;
-        border-bottom: 2px dotted #c685e4;
+        border-bottom: 2px dotted #5a4464;
         border-left: 6px dotted #694f75;
-        border-top: 5px dotted #694f75;
+        border-top: 4px dotted #5a4464;
         /* filter: grayscale(70%) sepia(30%); */
     }
 
@@ -429,9 +429,9 @@
 
     .btn {
         margin-top: 40px;
-        font-size: 17px;
+        font-size: 16px;
         font-weight: 800;
-        padding: 10px 40px;
+        padding: 8px 30px;
         outline: none;
         color: #c685e4;
         background-color: transparent;
