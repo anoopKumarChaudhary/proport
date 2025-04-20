@@ -6,8 +6,9 @@ import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import { FaStar } from "react-icons/fa";
 
-const HomePage = React.memo(() => {
-  const titles = ["Coder", "Developer", "Engineer", "Freelancer"];
+const titles = ["Coder", "Developer", "Engineer", "Freelancer"];
+
+const HomePage = () => {
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
@@ -79,6 +80,6 @@ const HomePage = React.memo(() => {
       </div>
     </div>
   );
-});
+};
 
 export default HomePage;
