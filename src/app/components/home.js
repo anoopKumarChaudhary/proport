@@ -6,7 +6,14 @@ import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import { FaStar } from "react-icons/fa";
 
-const titles = ["Coder", "Developer", "Engineer", "Freelancer"];
+const titles = [
+  "Coder",
+  "Developer",
+  "Engineer",
+  "Freelancer",
+  "Investor",
+  "Farmer",
+];
 
 const HomePage = () => {
   const [index, setIndex] = useState(0);
