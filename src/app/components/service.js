@@ -23,6 +23,10 @@ const Service = () => {
         overview of the services we provide:
       </p> */}
       <div className={styles.service_list}>
+        <p className={styles.headline}>
+          Transforming Ideas into Reality with Expert Software Development
+          Services
+        </p>
         <ul className={styles.list}>
           <li className={styles.l1}>Web Development</li>
           <motion.p
@@ -113,10 +117,6 @@ const Service = () => {
             impression.
           </motion.p>
         </ul>
-        <p className={styles.headline}>
-          Transforming Ideas into Reality with Expert Software Development
-          Services
-        </p>
       </div>
     </div>
   );

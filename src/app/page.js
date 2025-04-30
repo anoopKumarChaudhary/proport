@@ -5,6 +5,7 @@ import About from "./components/about.js";
 import Skill from "./components/skill.js";
 import Hackathons from "./components/hackathons.js";
 import Service from "./components/service.js";
+import Footer from "./components/footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Skill />
       <Hackathons />
       <Service />
+      <Footer />
     </div>
   );
 }
